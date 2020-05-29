@@ -5,9 +5,9 @@ Based on [DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-
 
 ## How to Run
 Install Requirements
- pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 Run the app
- python run.py
+`python run.py`
  
 Open [http://localhost:5000/](http://localhost:5000/)
